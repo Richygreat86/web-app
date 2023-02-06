@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.4.134:4000/repository/rbc-release/</url>
+	      <url>http://18.188.55.167:4000/nexus/content/repositories/rbc-project-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.4.134:4000/repository/rbc-snapshot/</url>
+	      <url>http://18.188.55.167:4000/nexus/content/repositories/rbc-project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
